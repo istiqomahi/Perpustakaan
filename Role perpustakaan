@@ -1,3 +1,4 @@
 Mahasiswa/mahasiswi, aksi => Meminjam Buku
 Administrasi, aksi => menginput peminjaman, pengembalian buku,dan mengurus data2 perpustakaan.
 Staff perpustakaan, aksi => mem validasi ketika ada peminjaman dan pengembalian buku.
+Selesai...
